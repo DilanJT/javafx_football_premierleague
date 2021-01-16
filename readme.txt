@@ -1,14 +1,4 @@
-Errors to fix:
--Major errors are fixed
-
-ToDo:
-- refactor the code to improve the code quality
-- Have to add try catch for the invalid inputs for integer variables.
-
-11/12
-ToDO:
-- sort and filer the matches table
-
+# This program is built according to the below rules and conditions
 
 rules of football
 - there cannot be less than 7 players of a team to continue a match
